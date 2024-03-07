@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\bin\Debug\net8.0\Algoritmi.exe
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\bin\Debug\net8.0\Algoritmi.deps.json
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\bin\Debug\net8.0\Algoritmi.runtimeconfig.json
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\bin\Debug\net8.0\Algoritmi.dll
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\bin\Debug\net8.0\Algoritmi.pdb
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\Algoritmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\Algoritmi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\Algoritmi.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\Algoritmi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\Algoritmi.dll
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\refint\Algoritmi.dll
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\Algoritmi.pdb
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\Algoritmi.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Domashna-random\Algoritmi\obj\Debug\net8.0\ref\Algoritmi.dll
